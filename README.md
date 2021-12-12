@@ -1,5 +1,5 @@
 # Space_Invaders
-Game
+
 Run the code and a game window will be open.
 There are two levels in this game.
 Use "Arrow keys" to control the movement of the  Space craft.
